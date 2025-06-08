@@ -60,3 +60,16 @@ EJERCICIO 1
   -  Esta versión contiene la implementación final de los dos ejercicios requeridos para el trabajo de pilas y colas.
   -  Esta versión cumple con los criterios de estructura, nomenclatura y pruebas establecidos en la guía de práctica.
 
+##  Pasos para crear un release
+
+- Nos dirimos al repositorio del proyecto
+
+- Dmos clic en Create new release que esta en la parte derecha 
+
+- Crea un nuevo tag con la version 2.0.2
+
+- Agregamos un titulo que va a tener que ser la version 2.0.2
+
+- Hacemos clic en Generate release notes
+
+- Y por ultimo publicamos el release
